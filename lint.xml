@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="HandlerLeak">
+        <ignore path="src/com/yan/iappsclient/DownloadImage.java" />
+    </issue>
+    <issue id="InflateParams">
+        <ignore path="src/com/yan/iappsclient/MainActivity.java" />
+    </issue>
+</lint>
